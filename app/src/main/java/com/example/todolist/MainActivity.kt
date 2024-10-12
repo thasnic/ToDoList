@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     lateinit var button_add_note :FloatingActionButton
     lateinit var recycler_view :RecyclerView
+    // test
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
